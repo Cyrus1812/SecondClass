@@ -1,0 +1,15 @@
+/Users/a2/WebstormProjects/SecondClass/bin/Debug/net6.0/SecondClass
+/Users/a2/WebstormProjects/SecondClass/bin/Debug/net6.0/SecondClass.deps.json
+/Users/a2/WebstormProjects/SecondClass/bin/Debug/net6.0/SecondClass.runtimeconfig.json
+/Users/a2/WebstormProjects/SecondClass/bin/Debug/net6.0/SecondClass.dll
+/Users/a2/WebstormProjects/SecondClass/bin/Debug/net6.0/SecondClass.pdb
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/SecondClass.csproj.AssemblyReference.cache
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/SecondClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/SecondClass.AssemblyInfoInputs.cache
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/SecondClass.AssemblyInfo.cs
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/SecondClass.csproj.CoreCompileInputs.cache
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/SecondClass.dll
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/refint/SecondClass.dll
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/SecondClass.pdb
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/SecondClass.genruntimeconfig.cache
+/Users/a2/WebstormProjects/SecondClass/obj/Debug/net6.0/ref/SecondClass.dll
